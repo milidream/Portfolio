@@ -11,4 +11,4 @@ Une maquette doit être faite en amont afin de structurer le site et avoir un mo
 L'utilisation de Bootstrap est fortement conseillé afin d'avoir un site responsive.
 Afin d'être sùr de la structure du site une vérification doit être faite à l'aide du validator du W3.
 
-Lien Netlify:https://portfoliosimplon.netlify.app/comp%C3%A9tences.html
+Lien Netlify:https://portfoliosimplon.netlify.app
